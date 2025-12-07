@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d43eda6a2782644aaca487ca8b0127, type: 3}
+  m_Name: ShadowMage
+  m_EditorClassIdentifier: Assembly-CSharp::Character
+  characterName: Shadowmage
+  realname: Gravhur the Grayshade
+  race: Wood elf
+  characterSprite: {fileID: 21300000, guid: b4ea6a2214b428f408e18b98aee29992, type: 2}
+  battleAnimator: {fileID: 9100000, guid: 395c5ac9b1eaafb45ba5fd6c79667caf, type: 2}
+  health: 25
+  defense: 6
+  mana: 45
+  meleeDamageMin: 4
+  meleeDamageMax: 6
+  rangedDamageMin: 8
+  rangedDamageMax: 10
